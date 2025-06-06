@@ -14,3 +14,6 @@ I’m a **.NET developer** with a passion for writing clean, maintainable, and e
 - **AI tools**: GitHub Copilot, Code Review platforms, cursor.ai
 
 ## 📈 Feel free to explore my repositories where I experiment with various **.NET** technologies and incorporate solutions.
+
+
+💡 Note: The repositories in this account are purely technical explorations. They are not intended for production or business use. My aim is to experiment with different technologies, architectural styles, and best practices to enhance my understanding and skills.
