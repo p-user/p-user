@@ -13,7 +13,9 @@ I’m a **.NET developer** with a passion for writing clean, maintainable, and e
 - **Tools**: Visual Studio, GitHub, Docker, Kubernetes
 - **AI tools**: GitHub Copilot, Code Review platforms, cursor.ai
 
-## 📈 Feel free to explore my repositories where I experiment with various **.NET** technologies and incorporate solutions.
+## Repositories
+Repositories here are small, purpose-built and learning-oriented projects in .NET, architecture patterns, and new tech tools. Notes, workflows and explanations are included where useful.
 
 
-💡 Note: The repositories in this account are purely technical explorations. They are not intended for production or business use. My aim is to experiment with different technologies, architectural styles, and best practices to enhance my understanding and skills.
+
+💡 Note: The repositories in this account are purely technical explorations. They are not intended for production or business use. 
